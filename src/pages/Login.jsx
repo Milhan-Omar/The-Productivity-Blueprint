@@ -72,7 +72,7 @@ const Login = () => {
       </div>
       <button className="btn">Login</button>
       <p style={{ color: 'black', fontWeight: '300', marginTop: '30px' }}>
-        Have an account?{' '}
+        Have no account?{' '}
         <span
           style={{
             color: 'blue',
