@@ -58,6 +58,7 @@ const Login = () => {
           onChange={handleChange}
         />
       </div>
+
       <div className="form_wrapper">
         <label style={{ flex: 1 }}>Password</label>
         <input
