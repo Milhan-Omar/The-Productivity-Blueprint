@@ -82,6 +82,7 @@ const Signup = () => {
           onChange={handleChange}
         />
       </div>
+
       <button className="btn">Register</button>
       <p style={{ color: 'black', fontWeight: '300', marginTop: '30px' }}>
         Have an account?{' '}
